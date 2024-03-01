@@ -2,7 +2,7 @@ import random
 import math
 import time
 
-# The function checks if a number is prime.
+# The function checks if a number is prime. Test
 def is_prime(number): 
     if number < 2: # Any number less than 2 is not prime
         return False
